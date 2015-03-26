@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # preventingdisplayturningoff
 This tool prevents your windows machine from going to sleep. If your machine is running Windows 8, it seems to go into sleep after a while; changing the power options sometimes does not seem to work. So when people want to remote to their machines from home, it won't work. 
 
@@ -10,7 +9,3 @@ Has been tested on following versions:
 - Windows 8
 - Windows 7
 - Windows Server 2008 R2
-=======
-# preventdisplayturningoff
-Prevents windows machines from going into sleep mode.
->>>>>>> 2ccdcf4a302e01b18a1b71df4a0a77a924687afa
